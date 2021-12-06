@@ -1,0 +1,95 @@
+body{
+    background-color: white;
+}
+.container{
+    border-radius: 20px 20px 40px 20px;
+    height: 600px;
+    width: 450px;
+    background-color: beige;
+    margin-left: 200px;
+    margin-top: 50px;
+    
+    
+}
+.big{
+    width: fill;
+    border-radius: 20px 20px 20px 20px;
+    height: 100px;
+}
+.header{
+     color: black;
+    text-align: center;
+     font-size: medium;
+      margin-top: 90px;
+      padding-top: 20px;
+     
+}
+.paragraph{
+    margin: 30px;
+    text-align:center;
+    font-size:medium;
+    word-wrap: break-word;
+}
+.icon{
+    border-radius: 20px 20px 20px 20px;
+}
+
+table{
+    background-color:rgb(184, 228, 243);
+    margin-left: 50px;
+    padding-left: 20px;
+    padding-top: 0px;
+    margin-top: 0px;
+    margin-right: 50px;
+    border-radius: 20px;
+    margin-bottom: 40px;
+}
+td{
+    height: 15px;
+    width: 250px;
+}
+td .type{
+    padding-left:20px;
+    margin-top:50px ;
+    margin-bottom: 10px
+
+}
+td .change{
+    font-size: large;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    color: blue;
+} 
+td .change:hover{
+    color:black;
+    cursor:pointer;
+}
+td .price{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+
+}
+button{
+    background-color: rgb(4, 0, 243);
+    color: white;
+    border-radius: 8px;
+    height: 40px;
+    width: 100%;
+    font-size: larger;
+    margin-top: 20px;
+
+}
+button:hover{
+    background-color: rgb(147,146,243);
+    cursor:pointer;
+}
+td .exit{
+    margin-left: 120px;
+    color: black;
+}
+td .exit:hover{
+    color: goldenrod;
+}
+
+
